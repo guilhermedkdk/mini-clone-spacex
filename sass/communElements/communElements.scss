@@ -83,16 +83,6 @@
   }
 }
 
-.email {
-  text-decoration: none;
-  color: white;
-  border-bottom: 1px solid white;
-
-  &:hover {
-    color: $link-hover;
-  }
-}
-
 @media (max-width: 405px) {
   .logo {
     width: 180px;
